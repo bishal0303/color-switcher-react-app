@@ -25,7 +25,7 @@ A responsive Color Switcher App built with React, Vite, and Tailwind CSS.
 
 ```bash
 git clone <your-repository-url>
-cd change-color
+cd color-switcher-react-app
 npm install
 npm run dev
 ```
